@@ -1,0 +1,2 @@
+Estoy usando vim
+Esty editando mi primer vim
