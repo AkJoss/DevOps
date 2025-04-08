@@ -23,4 +23,4 @@ jobs:
       run: ls -R
 
     - name: Run Python script
-      run: python act11/act11_print_hello.py
+      run: python Actividad_11/act11_print_hello.py
